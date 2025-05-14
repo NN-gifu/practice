@@ -1,4 +1,4 @@
-package jp.ac.gifu_u.info.nohara.myapplication;
+/*package jp.ac.gifu_u.info.nohara.myapplication;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -29,7 +29,7 @@ public class MyView extends View {
     }
     */
 
-    private ArrayList array_x, array_y;
+    /*private ArrayList array_x, array_y;
     private ArrayList array_status;
 
     public MyView(Context context){
@@ -90,4 +90,4 @@ public class MyView extends View {
             }
         }
     }
-}
+}*/
